@@ -42,7 +42,7 @@
     justify-content: space-around;
     align-items: center;
     color: var(--fuente-ceniza-claro);
-    font-size: 14px;
+    font-size: 16px;
     
 }
 
@@ -64,10 +64,13 @@
         text-align: left;
         min-width: 600px;
     }
+    
 }
 
-@media screen and (min-width: 378px){
+@media screen and (max-width: 378px){
     .derechos {
-        font-size: 16px;
+        flex-direction: column-reverse;
+        line-height: 1.2rem;
+        font-size: 14px;
     }
 }
