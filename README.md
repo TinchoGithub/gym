@@ -9,5 +9,5 @@ Visitar Sitio ---> https://tinchogithub.github.io/gym/
 Html | Css | Js
 
 #### Metodologías: 
-Mobile First
+Mobile First <br>
 Medología BEM
